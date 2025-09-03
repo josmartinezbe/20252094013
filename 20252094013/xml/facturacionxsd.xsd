@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="servicios">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="geograficos"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="geograficos">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="encabezado"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="encabezado">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="numero-factura"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="numero-factura">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="numero" type="xs:string"/>
+        <xs:element name="fecha" type="xs:date"/>
+        <xs:element ref="vendedor"/>
+        <xs:element ref="cliente"/>
+        <xs:element ref="servicio" maxOccurs="unbounded"/>
+        <xs:element ref="total"/>
+        <xs:element name="condiciones-pago" type="xs:string"/>
+        <xs:element name="plazo-de-pago-dias" type="xs:integer"/>
+        <xs:element name="notas-pago" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="vendedor">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="codigo" type="xs:string"/>
+        <xs:element name="nombre" type="xs:string"/>
+        <xs:element name="telefono" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="cliente">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="nombre" type="xs:string"/>
+        <xs:element name="nit" type="xs:string"/>
+        <xs:element name="cedula" type="xs:string"/>
+        <xs:element name="ciudad" type="xs:string"/>
+        <xs:element name="direccion" type="xs:string"/>
+        <xs:element name="telefono" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="servicio">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="descripcion" type="xs:string"/>
+        <xs:element name="cantidad" type="xs:integer"/>
+        <xs:element name="precio" type="xs:integer"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="total">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="subtotal" type="xs:integer"/>
+        <xs:element name="descuentos" type="xs:integer"/>
+        <xs:element name="impuentos" type="xs:string"/>
+        <xs:element name="total-pago" type="xs:integer"/>
+        <xs:element name="moneda" type="xs:string"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Folder>
+  <Placemark>
+    <name>Entrada de la 45</name>
+    <description>
+		Educativo
+    </description>
+    <Point>
+      <coordinates>-74.080296,4.634914</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Entrada calle 26</name>
+    <description>
+		Educativo
+    </description>
+    <Point>
+      <coordinates>-74.083937,4.632460</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Entrada Calle 53</name>
+    <description>
+		Educativo
+    </description>
+    <Point>
+      <coordinates>-74.083316,4.643477</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Entrada Carrera 45</name>
+    <description>
+		Educativo
+    </description>
+    <Point>
+      <coordinates>-74.088762,4.639260</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rectoria</name>
+    <description>
+		Educativo
+    </description>
+    <Point>
+      <coordinates>-74.090034,4.639700</coordinates>
+    </Point>
+  </Placemark>
+</Folder> 
+</kml>

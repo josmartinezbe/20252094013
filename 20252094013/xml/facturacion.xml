@@ -1,0 +1,485 @@
+﻿<?xml version= "1.0" encoding="UTF-8"?>
+<servicios xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="facturacionxsd.xsd">
+	<geograficos>
+		<encabezado>
+			<numero-factura>
+				<numero>001</numero>
+				<fecha>2025-08-30</fecha>		
+				<vendedor>
+					<codigo>2025209401</codigo>
+					<nombre>Johan Sebastian Martinez</nombre>
+					<telefono>3015778544</telefono>
+				</vendedor>
+				<cliente>
+					<nombre>Catalina Perez</nombre>
+					<nit>900124798</nit>
+					<cedula>34655721</cedula>
+					<ciudad>San Juan</ciudad>
+					<direccion>Calle 34 # 74 13 </direccion>
+					<telefono>3418997544</telefono>
+				</cliente>
+				<servicio>
+					<descripcion>
+					Conusltoría y Aseoría en el Mercado ambiental
+					</descripcion>
+					<cantidad>1</cantidad>
+					<precio>500</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Evaluación de áreas para compensaciones
+					</descripcion>
+					<cantidad>3</cantidad>
+					<precio>200</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Levantamiento fotogrametria
+					</descripcion>
+					<cantidad>1</cantidad>
+					<precio>500</precio>
+				</servicio>
+				<total>
+					<subtotal>1200</subtotal>
+					<descuentos>0</descuentos>
+					<impuentos>IVA</impuentos>
+					<total-pago>1200</total-pago>
+					<moneda>USD</moneda>
+				</total>
+				<condiciones-pago>transferencia</condiciones-pago>
+				<plazo-de-pago-dias>15</plazo-de-pago-dias>
+				<notas-pago>ninguno</notas-pago>
+			</numero-factura>
+			<numero-factura>
+				<numero>001</numero>
+				<fecha>2025-08-30</fecha>		
+				<vendedor>
+					<codigo>2025209401</codigo>
+					<nombre>Johan Sebastian Martinez</nombre>
+					<telefono>3015778544</telefono>
+				</vendedor>
+				<cliente>
+					<nombre>Carlos López</nombre>
+					<nit>900124451</nit>
+					<cedula>34655721</cedula>
+					<ciudad>Bogotá</ciudad>
+					<direccion>Calle 34 # 74 13 </direccion>
+					<telefono>3418997544</telefono>
+				</cliente>
+				<servicio>
+					<descripcion>
+					Conusltoría y Aseoría en el Mercado ambiental
+					</descripcion>
+					<cantidad>1</cantidad>
+					<precio>500</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Evaluación de áreas para compensaciones
+					</descripcion>
+					<cantidad>3</cantidad>
+					<precio>200</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Levantamiento fotogrametria
+					</descripcion>
+					<cantidad>1</cantidad>
+					<precio>500</precio>
+				</servicio>
+				<total>
+					<subtotal>1200</subtotal>
+					<descuentos>0</descuentos>
+					<impuentos>IVA</impuentos>
+					<total-pago>1200</total-pago>
+					<moneda>USD</moneda>
+				</total>
+				<condiciones-pago>transferencia</condiciones-pago>
+				<plazo-de-pago-dias>15</plazo-de-pago-dias>
+				<notas-pago>ninguno</notas-pago>
+			</numero-factura><numero-factura>
+				<numero>001</numero>
+				<fecha>2025-08-30</fecha>		
+				<vendedor>
+					<codigo>2025209401</codigo>
+					<nombre>Johan Sebastian Martinez</nombre>
+					<telefono>3015778544</telefono>
+				</vendedor>
+				<cliente>
+					<nombre>Cristian Montealegre</nombre>
+					<nit>900124734</nit>
+					<cedula>34655721</cedula>
+					<ciudad>Villavicencio</ciudad>
+					<direccion>Calle 34 # 74 13 </direccion>
+					<telefono>3418997544</telefono>
+				</cliente>
+				<servicio>
+					<descripcion>
+					Conusltoría y Aseoría en el Mercado ambiental
+					</descripcion>
+					<cantidad>1</cantidad>
+					<precio>500</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Evaluación de áreas para compensaciones
+					</descripcion>
+					<cantidad>3</cantidad>
+					<precio>200</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Levantamiento fotogrametria
+					</descripcion>
+					<cantidad>1</cantidad>
+					<precio>500</precio>
+				</servicio>
+				<total>
+					<subtotal>1200</subtotal>
+					<descuentos>0</descuentos>
+					<impuentos>IVA</impuentos>
+					<total-pago>1200</total-pago>
+					<moneda>USD</moneda>
+				</total>
+				<condiciones-pago>transferencia</condiciones-pago>
+				<plazo-de-pago-dias>15</plazo-de-pago-dias>
+				<notas-pago>ninguno</notas-pago>
+			</numero-factura><numero-factura>
+				<numero>001</numero>
+				<fecha>2025-08-30</fecha>		
+				<vendedor>
+					<codigo>2025209401</codigo>
+					<nombre>Johan Sebastian Martinez</nombre>
+					<telefono>3015778544</telefono>
+				</vendedor>
+				<cliente>
+					<nombre>Alfredo Ruiz</nombre>
+					<nit>900143798</nit>
+					<cedula>34655721</cedula>
+					<ciudad>Ibagué</ciudad>
+					<direccion>Calle 34 # 74 13 </direccion>
+					<telefono>3418997544</telefono>
+				</cliente>
+				<servicio>
+					<descripcion>
+					Conusltoría y Aseoría en el Mercado ambiental
+					</descripcion>
+					<cantidad>1</cantidad>
+					<precio>500</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Evaluación de áreas para compensaciones
+					</descripcion>
+					<cantidad>3</cantidad>
+					<precio>200</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Levantamiento fotogrametria
+					</descripcion>
+					<cantidad>1</cantidad>
+					<precio>500</precio>
+				</servicio>
+				<total>
+					<subtotal>1200</subtotal>
+					<descuentos>0</descuentos>
+					<impuentos>IVA</impuentos>
+					<total-pago>1200</total-pago>
+					<moneda>USD</moneda>
+				</total>
+				<condiciones-pago>transferencia</condiciones-pago>
+				<plazo-de-pago-dias>15</plazo-de-pago-dias>
+				<notas-pago>ninguno</notas-pago>
+			</numero-factura>	
+			<numero-factura>
+				<numero>001</numero>
+				<fecha>2025-08-30</fecha>		
+				<vendedor>
+					<codigo>2025209401</codigo>
+					<nombre>Johan Sebastian Martinez</nombre>
+					<telefono>3015778544</telefono>
+				</vendedor>
+				<cliente>
+					<nombre>Pepito Perez</nombre>
+					<nit>900147798</nit>
+					<cedula>34655721</cedula>
+					<ciudad>Barranquilla</ciudad>
+					<direccion>Calle 34 # 74 13 </direccion>
+					<telefono>3418997544</telefono>
+				</cliente>
+				<servicio>
+					<descripcion>
+					Conusltoría y Aseoría en el Mercado ambiental
+					</descripcion>
+					<cantidad>1</cantidad>
+					<precio>500</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Evaluación de áreas para compensaciones
+					</descripcion>
+					<cantidad>3</cantidad>
+					<precio>200</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Levantamiento fotogrametria
+					</descripcion>
+					<cantidad>1</cantidad>
+					<precio>500</precio>
+				</servicio>
+				<total>
+					<subtotal>1200</subtotal>
+					<descuentos>0</descuentos>
+					<impuentos>IVA</impuentos>
+					<total-pago>1200</total-pago>
+					<moneda>USD</moneda>
+				</total>
+				<condiciones-pago>transferencia</condiciones-pago>
+				<plazo-de-pago-dias>15</plazo-de-pago-dias>
+				<notas-pago>ninguno</notas-pago>
+			</numero-factura>	
+			<numero-factura>
+				<numero>001</numero>
+				<fecha>2025-08-30</fecha>		
+				<vendedor>
+					<codigo>2025209401</codigo>
+					<nombre>Johan Sebastian Martinez</nombre>
+					<telefono>3015778544</telefono>
+				</vendedor>
+				<cliente>
+					<nombre>Juan Rodriguez</nombre>
+					<nit>900121498</nit>
+					<cedula>34655721</cedula>
+					<ciudad>Bucaranamga</ciudad>
+					<direccion>Calle 34 # 74 13 </direccion>
+					<telefono>3418997544</telefono>
+				</cliente>
+				<servicio>
+					<descripcion>
+					Conusltoría y Aseoría en el Mercado ambiental
+					</descripcion>
+					<cantidad>1</cantidad>
+					<precio>500</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Evaluación de áreas para compensaciones
+					</descripcion>
+					<cantidad>3</cantidad>
+					<precio>200</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Levantamiento fotogrametria
+					</descripcion>
+					<cantidad>1</cantidad>
+					<precio>500</precio>
+				</servicio>
+				<total>
+					<subtotal>1200</subtotal>
+					<descuentos>0</descuentos>
+					<impuentos>IVA</impuentos>
+					<total-pago>1200</total-pago>
+					<moneda>USD</moneda>
+				</total>
+				<condiciones-pago>transferencia</condiciones-pago>
+				<plazo-de-pago-dias>15</plazo-de-pago-dias>
+				<notas-pago>ninguno</notas-pago>
+			</numero-factura>	
+			<numero-factura>
+				<numero>001</numero>
+				<fecha>2025-08-30</fecha>		
+				<vendedor>
+					<codigo>2025209401</codigo>
+					<nombre>Johan Sebastian Martinez</nombre>
+					<telefono>3015778544</telefono>
+				</vendedor>
+				<cliente>
+					<nombre>Laura Martinez</nombre>
+					<nit>900121638</nit>
+					<cedula>34655721</cedula>
+					<ciudad>Popayán</ciudad>
+					<direccion>Calle 34 # 74 13 </direccion>
+					<telefono>3418997544</telefono>
+				</cliente>
+				<servicio>
+					<descripcion>
+					Conusltoría y Aseoría en el Mercado ambiental
+					</descripcion>
+					<cantidad>1</cantidad>
+					<precio>500</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Evaluación de áreas para compensaciones
+					</descripcion>
+					<cantidad>3</cantidad>
+					<precio>200</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Levantamiento fotogrametria
+					</descripcion>
+					<cantidad>1</cantidad>
+					<precio>500</precio>
+				</servicio>
+				<total>
+					<subtotal>1200</subtotal>
+					<descuentos>0</descuentos>
+					<impuentos>IVA</impuentos>
+					<total-pago>1200</total-pago>
+					<moneda>USD</moneda>
+				</total>
+				<condiciones-pago>transferencia</condiciones-pago>
+				<plazo-de-pago-dias>15</plazo-de-pago-dias>
+				<notas-pago>ninguno</notas-pago>
+			</numero-factura>	
+			<numero-factura>
+				<numero>001</numero>
+				<fecha>2025-08-30</fecha>		
+				<vendedor>
+					<codigo>2025209401</codigo>
+					<nombre>Johan Sebastian Martinez</nombre>
+					<telefono>3015778544</telefono>
+				</vendedor>
+				<cliente>
+					<nombre>Elena Bejarano</nombre>
+					<nit>900147898</nit>
+					<cedula>34655721</cedula>
+					<ciudad>Valledupar</ciudad>
+					<direccion>Calle 34 # 74 13 </direccion>
+					<telefono>3418997544</telefono>
+				</cliente>
+				<servicio>
+					<descripcion>
+					Conusltoría y Aseoría en el Mercado ambiental
+					</descripcion>
+					<cantidad>1</cantidad>
+					<precio>500</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Evaluación de áreas para compensaciones
+					</descripcion>
+					<cantidad>3</cantidad>
+					<precio>200</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Levantamiento fotogrametria
+					</descripcion>
+					<cantidad>1</cantidad>
+					<precio>500</precio>
+				</servicio>
+				<total>
+					<subtotal>1200</subtotal>
+					<descuentos>0</descuentos>
+					<impuentos>IVA</impuentos>
+					<total-pago>1200</total-pago>
+					<moneda>USD</moneda>
+				</total>
+				<condiciones-pago>transferencia</condiciones-pago>
+				<plazo-de-pago-dias>15</plazo-de-pago-dias>
+				<notas-pago>ninguno</notas-pago>
+			</numero-factura>	
+			<numero-factura>
+				<numero>001</numero>
+				<fecha>2025-08-30</fecha>		
+				<vendedor>
+					<codigo>2025209401</codigo>
+					<nombre>Johan Sebastian Martinez</nombre>
+					<telefono>3015778544</telefono>
+				</vendedor>
+				<cliente>
+					<nombre>Hannah Bondy</nombre>
+					<nit>900123598</nit>
+					<cedula>34655721</cedula>
+					<ciudad>Santa Marta</ciudad>
+					<direccion>Calle 34 # 74 13 </direccion>
+					<telefono>3418997544</telefono>
+				</cliente>
+				<servicio>
+					<descripcion>
+					Conusltoría y Aseoría en el Mercado ambiental
+					</descripcion>
+					<cantidad>1</cantidad>
+					<precio>500</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Evaluación de áreas para compensaciones
+					</descripcion>
+					<cantidad>3</cantidad>
+					<precio>200</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Levantamiento fotogrametria
+					</descripcion>
+					<cantidad>1</cantidad>
+					<precio>500</precio>
+				</servicio>
+				<total>
+					<subtotal>1200</subtotal>
+					<descuentos>0</descuentos>
+					<impuentos>IVA</impuentos>
+					<total-pago>1200</total-pago>
+					<moneda>USD</moneda>
+				</total>
+				<condiciones-pago>transferencia</condiciones-pago>
+				<plazo-de-pago-dias>15</plazo-de-pago-dias>
+				<notas-pago>ninguno</notas-pago>
+			</numero-factura>	
+			<numero-factura>
+				<numero>001</numero>
+				<fecha>2025-08-30</fecha>		
+				<vendedor>
+					<codigo>2025209401</codigo>
+					<nombre>Johan Sebastian Martinez</nombre>
+					<telefono>3015778544</telefono>
+				</vendedor>
+				<cliente>
+					<nombre>CD Geográficos</nombre>
+					<nit>900124714</nit>
+					<cedula>34655721</cedula>
+					<ciudad>Cali</ciudad>
+					<direccion>Calle 34 # 74 13 </direccion>
+					<telefono>3418997544</telefono>
+				</cliente>
+				<servicio>
+					<descripcion>
+					Conusltoría y Aseoría en el Mercado ambiental
+					</descripcion>
+					<cantidad>1</cantidad>
+					<precio>500</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Evaluación de áreas para compensaciones
+					</descripcion>
+					<cantidad>3</cantidad>
+					<precio>200</precio>
+				</servicio>
+				<servicio>
+					<descripcion>
+					Levantamiento fotogrametria
+					</descripcion>
+					<cantidad>1</cantidad>
+					<precio>500</precio>
+				</servicio>
+				<total>
+					<subtotal>1200</subtotal>
+					<descuentos>0</descuentos>
+					<impuentos>IVA</impuentos>
+					<total-pago>1200</total-pago>
+					<moneda>USD</moneda>
+				</total>
+				<condiciones-pago>transferencia</condiciones-pago>
+				<plazo-de-pago-dias>15</plazo-de-pago-dias>
+				<notas-pago>ninguno</notas-pago>
+			</numero-factura>				
+		</encabezado>	
+	</geograficos>
+</servicios>

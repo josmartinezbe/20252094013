@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 500 500"
+     preserveAspectRatio="xMidYMid meet">
+    
+    
+    <polygon points="150,20 20,280 20,440 465,475 495,432 400,60 " style="fill:gray;stroke:white;stroke-width:10" />
+    <polygon points="164,234 164,313 220,398 280,432 360,430 430,350 430,280 
+    400,227 370,200 311,162 236,163" style=" fill:white;stroke:black;stroke-width:7" />
+    <polygon points="230,164 230,142 220,111 193,94 150,100 100,150 94,193 100,217 130,234 144,237 157,236" style=" fill:white;stroke:black;stroke-width:7" />
+    <polyline points="44,244 87,270 190,270 265,195 260,77 250,52 222,28"
+  style="fill:none;stroke:black;stroke-width:3" />
+  <polyline points="187,272 199,310 234,364 284,398 342,398 404,330 396,278 361,230 330,206 347,187"
+  style="fill:none;stroke:black;stroke-width:3" />
+  <polyline points="322,401 324,356 353,324 378,321 291,226 276,225 258,204"
+  style="fill:none;stroke:red;stroke-width:1" />
+  <polyline points="195,270 237,267 271,235 332,311 283,327 234,365 283,327 293,361 305,351 322,363" 
+  style="fill:none;stroke:red;stroke-width:1" />
+  <polygon points="305,339 319,355 327,340 313,329" style="fill:gray;stroke:white;stroke-width:1" />
+  <polygon points="263,294 247,309 234,293 226,300 260,331 283,311" style="fill:gray;stroke:white;stroke-width:1" />
+  <polygon points="120,165 120,201 144,202 144,166 " style="fill:gray;stroke:white;stroke-width:1" />
+  <polygon points="279,416 279,407 287,404 285,400 261,404 261,408 268,411 269,418" style="fill:gray;stroke:white;stroke-width:1" />
+  <polygon points="158,143 185,149 197,150 200,113 173,110 160,123" style="fill:gray;stroke:white;stroke-width:1" />
+   <text x="246" y="40" fill="black" transform="rotate(10 246 33)">Calle 53</text>
+   <text x="426" y="160" fill="black" transform="rotate(78 412 174)">Carrera 30</text>
+   <text x="170" y="457" fill="black" transform="rotate(5 170 460)">Calle 26</text>
+    <text x="70" y="146" fill="black" transform="rotate(-60 90 146)">Carrera 45</text>
+    <text x="435" y="33" fill="black" >Norte</text>
+  <circle r="20" cx="447" cy="58" fill="gray" />
+  <polygon points="445,70 445,59 440,59 447,47 455,59 450,59 450,70" style="fill:gray;stroke:white;stroke-width:1" />
+</svg>
+
+
+
